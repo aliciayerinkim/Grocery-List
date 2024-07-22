@@ -13,11 +13,6 @@ section {
     vertical-align: top; 
 }
 
-.header {
-    padding: 5px;
-    border: 2px solid #000000;
-}
-
 ul, ol {
     padding-left: 20px;
 }
